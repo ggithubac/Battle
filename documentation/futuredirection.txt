@@ -1,0 +1,8 @@
+How this Battle can be further enhanced, few other things I thought how this problem can be made more interesting:
+
+Give more capability to the Chief of the army i.e give him a horse.
+Add Tankers and Artillery to the battle field
+Add AirForce Capabilities
+Add Navy Capabilities
+Declare victory only when all forms of the battle, on the ground, airforce and navy are won
+Add graphical interface and convert this to a real simulation --> This will be a huge task I believe there are huge gaming companies working and have commercial products in the market place. 

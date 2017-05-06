@@ -1,0 +1,8 @@
+1) Win-Loss-FlowChart.pdf is not yet implemented
+
+2) Two known bugs exists, when the soldier dies removing the soldier from Map datastructure has synchronization issues which is causing it is show wrong results
+
+
+3) During Soldier creation due to randomization the number of soldier for Blue and Red are not equal
+
+4) While running first run "mvn clean install" on terminal and then run the main program in eclipse to see the results.

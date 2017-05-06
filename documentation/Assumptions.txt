@@ -1,0 +1,15 @@
+1) There are two teams Blue and Red
+2) Each team has equal number of soldiers
+3) Each team has a Chief
+4) At the end of simulation If the Chief dies  or if the team has fewer soldiers than the other team then the other team wins
+5) The battlefield is assumed to be a big square or rectangle, the four coordinates of the battlefield are provided
+6) Half of the battlefield is owned by Blue and another half by Red
+7) 1/4th of the battlefield owned by Red and Blue teams has Landmines
+8) Landmines are randomly placed but are equal for both sides
+9) Blue Soldier never steps on Blue landmine and Red Soldier never steps on Red Landmine
+10) Soldier dies if steps on opposite teams landmine
+11) If a soldier steps into a empty square and there is no landmine he owns the square
+12) If a soldier steps into a square on which opposition’s soldier exists this soldier dies
+13) The total count of soldiers who are alive is always know to the team’s chief
+14) The Chief moves from his position when there are less then 1/2 of his soldiers alive as compared to opposite team’s soldiers and atleast 1/4 of his team’s soldiers are dead
+15) If the number of soldiers are improving for a team the Chief stays at that position.

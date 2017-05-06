@@ -1,0 +1,14 @@
+Assumptions.txt	--> The Assumptions made about the problem statement
+BattleField.pdf	--> How the battleField looks
+Soldier-Alive-Dead.pdf --> This depicts the flowchart for the Soldier being alive or dead while progess forward
+Win-Loss-FlowChart.pdf --> This is a flowchart of WIN Versus LOSS of the Battle
+Army Design Pattern.pdf	--> This depicts the Design pattern used to implement Army Personnel
+BattleField Design Pattern.pdf --> This depicts the Design pattern used to implement the battlefield	
+WarGame.pdf --> This depicts the main driver for the Battle
+BattleConsoleOutput --> The console output of the program 
+
+In Current version of the code following are release noted and known problems:
+-----------------------------------------------------------------------------
+1) Win-Loss-FlowChart.pdf is not yet implemented
+2) Two known bugs exists, when the soldier dies removing the soldier for Map datastructure has synchronization issues which is cause it is show wrong results
+3) During Soldier creation due to randomization the number of soldier for Blue and Red are not equal
